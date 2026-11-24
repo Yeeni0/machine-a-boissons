@@ -1,0 +1,12 @@
+{
+  "name": "machine-a-boissons",
+  "version": "1.0.0",
+  "description": "TP machine à boissons en Node.js",
+  "main": "machine.js",
+  "scripts": {
+    "start": "node machine.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
